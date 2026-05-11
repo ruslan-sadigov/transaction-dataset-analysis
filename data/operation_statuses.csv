@@ -1,0 +1,4 @@
+OperationStatusId,Name,Description
+10,Acknowledged,The operation is acknowledged by the organization
+20,Refused,The operation is refused by the organization
+30,Initiated,The operation is initiated with the organization
