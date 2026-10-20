@@ -52,8 +52,8 @@ This project explores a transactional dataset of authentication/acknowledgement 
 
 1. Clone the repository
 ```bash
-git clone <repo-url>
-cd transaction-dataset
+git clone https://github.com/ruslan-sadigov/transaction-dataset-analysis.git
+cd transaction-dataset-analysis
 ```
 
 2. Create and activate a virtual environment
